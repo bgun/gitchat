@@ -2,9 +2,14 @@ Git chat!
 =========
 
 bgun: hey everybody!
-<<<<<<< HEAD
-yuliya: Hi everybody! Glad that bgun came up with this awesome idea to practice git skills! Two thumbs up. The question is how to use cat.gif=)?
-=======
+
 bgun: Use this file as a chatroom. Or create your own! You can use this repo as a big sandbox; create
 your own text files and folders to make little discussions, or just be creative.
->>>>>>> 6c67b16370810142c1fcd882c577fe961ff38ff5
+
+yuliya: Hi everybody! Glad that bgun came up with this awesome idea to practice git skills! Two thumbs up. The question is how to use cat.gif=)?
+
+bgun: catgifs is a folder - you can add files to it, add them and push them like any other file.
+This file (chat.txt) is just a text file so it can't display images, but explore the Markdown files (ending in .md)
+and maybe you'll discover a way to link images! :)
+
+

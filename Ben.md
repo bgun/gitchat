@@ -1,5 +1,7 @@
 # Ben Gundersen
 
+!(https://raw.githubusercontent.com/bgun/gitchat/master/catgifs/fold-the-paws.gif)
+
 bgun:
 > Hey, I'm Ben, one of the TAs at Access Code on Tuesdays and Thursdays.
 I work at [Citymaps](http://citymaps.com).
