@@ -1,5 +1,4 @@
 ### Git chat!
 
 bgun: hey everybody!
-
-
+bgun: Use this file as a chatroom. Or create your own!
