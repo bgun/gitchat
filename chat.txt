@@ -1,4 +1,10 @@
-### Git chat!
+Git chat!
+=========
 
 bgun: hey everybody!
+<<<<<<< HEAD
 yuliya: Hi everybody! Glad that bgun came up with this awesome idea to practice git skills! Two thumbs up. The question is how to use cat.gif=)?
+=======
+bgun: Use this file as a chatroom. Or create your own! You can use this repo as a big sandbox; create
+your own text files and folders to make little discussions, or just be creative.
+>>>>>>> 6c67b16370810142c1fcd882c577fe961ff38ff5
