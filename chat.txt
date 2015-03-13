@@ -12,4 +12,6 @@ bgun: catgifs is a folder - you can add files to it, add them and push them like
 This file (chat.txt) is just a text file so it can't display images, but explore the Markdown files (ending in .md)
 and maybe you'll discover a way to link images! :)
 
+yuliya: Thank you! I think I understand the game now.I have two questions, to view files.md I have to download a certain reader? or program? I cannot open Ben.md. The next question is as I can see you love cats=)?
+
 
