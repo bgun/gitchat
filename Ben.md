@@ -1,6 +1,6 @@
 # Ben Gundersen
 
-!(https://raw.githubusercontent.com/bgun/gitchat/master/catgifs/fold-the-paws.gif)
+![cat](https://raw.githubusercontent.com/bgun/gitchat/master/catgifs/fold-the-paws.gif)
 
 bgun:
 > Hey, I'm Ben, one of the TAs at Access Code on Tuesdays and Thursdays.
