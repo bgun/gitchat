@@ -14,4 +14,8 @@ and maybe you'll discover a way to link images! :)
 
 yuliya: Thank you! I think I understand the game now.I have two questions, to view files.md I have to download a certain reader? or program? I cannot open Ben.md. The next question is as I can see you love cats=)?
 
+bgun: You don't need a special reader to open .md files. You can open them in any text editor, but on Mac you may need to tell it which
+program to use. Markdown files are just regular text files, with some extra formatting that can be shown as headlines, links, and so on.
+
+And yes, I do love cats. The one in the picture is my cat Annie - she's a Ragdoll breed. :) https://en.wikipedia.org/wiki/Ragdoll
 
