@@ -21,3 +21,5 @@ program to use. Markdown files are just regular text files, with some extra form
 And yes, I do love cats. The one in the picture is my cat Annie - she's a Ragdoll breed. :) https://en.wikipedia.org/wiki/Ragdoll
 
 yuliya: I thought it was just an Internet cat=)))) she is so adorable! The way you are folding her paws and her reaction is so funny. Do you have just one pet? 
+
+sufei: Should we comment on other student's markdown files too?
