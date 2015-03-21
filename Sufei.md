@@ -25,3 +25,7 @@
 > your code lives on GitHub. In that case you wouldn't need to to add `origin master` and a simple
 > `git push` would be enough. However, I always use `git push origin master`, simply because
 > I like knowing exactly where my code is going - even if it's a bit more to type. :)
+
+> Sufei: Thanks Ben! That makes sense. Yeah I've been typing 'git pull origin master'
+> whenever I'm in doubt.
+> So what types of codes do you write at work?
