@@ -10,4 +10,9 @@ a great cause is really fun work.
 
 > Ben: Access Coders, what's a community or cause that's important to you?
 
-> Sufei: I volunteer for New York Cares, which is a giant umbrella for all sorts of causes. You can sign up for whatever causes interest you. I've done a few dog walks for the BARC animal shelter in Williamsburg, and helped renovate a community center in LES. Unfortunately, I haven't had time to sign up for any of their projects recently. 
+> Sufei: I volunteer for New York Cares, which is a giant umbrella for all sorts of causes. You can sign up for whatever
+causes interest you. I've done a few dog walks for the BARC animal shelter in Williamsburg, and helped renovate a community
+center in LES. Unfortunately, I haven't had time to sign up for any of their projects recently. 
+
+> Ben: @Sufei that's awesome! New York Cares is a great organization. I'm also too often short on free time, but should look
+for some volunteer projects close to home.

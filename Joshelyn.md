@@ -19,4 +19,7 @@ supports emoji, like :bowtie: or :neckbeard:! I am super excited about this. :st
 > Ben: Also we should talk about conventions sometime - I remembered your "interesting fact" about Comic-Con. I help direct a science fiction convention
 in Atlanta (now in its 7th year), so I'm familiar with the territory. They're a lot of fun. :D
 
->Joshelyn: Thanks Ben! You and the rest of the TAs are super helpful and patient :octocat: That's so cool about the Sci-fic convention! I wanted to expand my trips to see conventions like San Diego Con, Katsucon and MagFest. What's the name of the convention you helped direct?
+> Joshelyn: Thanks Ben! You and the rest of the TAs are super helpful and patient :octocat: That's so cool about the Sci-fic convention! I wanted to
+expand my trips to see conventions like San Diego Con, Katsucon and MagFest. What's the name of the convention you helped direct?
+
+> Ben: [JordanCon](http://jordancon.org). It's coming up in two weeks and I still have a lot of work to do - aah!

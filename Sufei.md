@@ -29,3 +29,5 @@
 > Sufei: Thanks Ben! That makes sense. Yeah I've been typing 'git pull origin master'
 > whenever I'm in doubt.
 > So what types of codes do you write at work?
+
+> Ben: I primarily write Javascript at work, but we also use Scala.
