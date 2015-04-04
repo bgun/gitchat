@@ -23,3 +23,5 @@ in Atlanta (now in its 7th year), so I'm familiar with the territory. They're a 
 expand my trips to see conventions like San Diego Con, Katsucon and MagFest. What's the name of the convention you helped direct?
 
 > Ben: [JordanCon](http://jordancon.org). It's coming up in two weeks and I still have a lot of work to do - aah!
+
+>Joshelyn: Don't worry about it! I'm sure you'll do fine. How did you get into directing a convention?
